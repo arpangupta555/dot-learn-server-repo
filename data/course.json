@@ -23,7 +23,7 @@
         "price": "$10",
         "duration": "3 hours",
         "image_url": "https://i.ibb.co/tBvGZXT/python.png",
-        "details": "Python awesome. "
+        "details": "Python is a general-purpose, versatile, and powerful programming language. It’s a great first language because Python code is concise and easy to read. Whatever you want to do, python can do it. From web development to machine learning to data science, Python is the language for you. "
     },
     {
         "_id": "0282e0e58a5c404fbd15261f11c2ab6a",
@@ -47,7 +47,7 @@
         },
         "title": "C",
         "image_url": "https://www.pngitem.com/pimgs/m/31-312155_c-programming-language-logo-hd-png-download.png",
-        "details": "C awesome.",
+        "details": "C has been around for quite some time and it is one of the foundational languages of computer science. Most operating systems today, including the Linux Kernel, are implemented with C code. The main version of the Python programming language is named CPython because it is implemented using C. The C programming language is everywhere, learning it will help you become a better programmer ready for the next challenge in any field of computer science!.",
         "duration": "4 hours",
         "price": "$20"
     },
@@ -62,7 +62,7 @@
         "price": "$10",
         "duration": "2 hours",
         "image_url": "https://i.ibb.co/r5YZVhw/php.jpg",
-        "details": "PHP awesome."
+        "details": "PHP is a general-purpose scripting language widely used as a server-side language for creating dynamic web pages. Though its reputation is mixed, PHP is still extremely popular and is used in over 75% of all websites where the server-side programming language is known.."
     },
     {
         "_id": "0282e0e58a5c404fbd15261f11c2ab6a",
@@ -75,6 +75,6 @@
         "price": "$15",
         "duration": "1 hours",
         "image_url": "https://i.ibb.co/Jp9rrN9/html-512-1.png",
-        "details": "HTML Awesome"
+        "details": "HTML is the foundation of all web pages. It defines the structure of a page, while CSS defines its style. HTML and CSS are the beginning of everything you need to know to make your first web page! Learn both and start creating amazing websites."
     }
 ]

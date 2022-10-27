@@ -8,6 +8,8 @@
         },
         "title": "Javascript",
         "image_url": "https://a.thumbs.redditmedia.com/zDOFJTXd6fmlD58VDGypiV94Leflz11woxmgbGY6p_4.png",
+        "price": "$25",
+        "duration": "2 hours",
         "details": "JavaScript (js) is a light-weight object-oriented programming language which is used by several websites for scripting the webpages. It is an interpreted, full-fledged programming language that enables dynamic interactivity on websites when applied to an HTML document. It was introduced in the year 1995 for adding programs to the webpages in the Netscape Navigator browser. Since then, it has been adopted by all other graphical web browsers. With JavaScript, users can build modern web applications to interact directly without reloading the page every time. The traditional website uses js to provide several forms of interactivity and simplicity.Although, JavaScript has no connectivity with Java programming language. The name was suggested and provided in the times when Java was gaining popularity in the market. In addition to web browsers, databases such as CouchDB and MongoDB uses JavaScript as their scripting and query language."
     },
     {
@@ -18,8 +20,10 @@
             "badge": "Excellent"
         },
         "title": "Python",
+        "price": "$10",
+        "duration": "3 hours",
         "image_url": "https://i.ibb.co/tBvGZXT/python.png",
-        "details": "Python is a popular programming language used for everything from web and software development to scientific applications across every sector and industry. It’s used by large and well-known organizations, data scientists, network automation experts, and many more.On this course, you will gain a solid understanding of the Python programming language as well as gaining hands-on experience and practical skills. "
+        "details": "Python is a general-purpose, versatile, and powerful programming language. It’s a great first language because Python code is concise and easy to read. Whatever you want to do, python can do it. From web development to machine learning to data science, Python is the language for you. "
     },
     {
         "id": "03",
@@ -29,6 +33,8 @@
             "badge": "Excellent"
         },
         "title": "Java",
+        "duration": "5 hours",
+        "price": "$25",
         "image_url": "https://i.ibb.co/SRdgV7Z/java-logo.jpg",
         "details": "Java is a general-purpose, class-based, object-oriented programming language designed for having lesser implementation dependencies. It is a computing platform for application development. Java is fast, secure, and reliable, therefore. It is widely used for developing Java applications in laptops, data centers, game consoles, scientific supercomputers, cell phones, etc.Java Platform is a collection of programs that help programmers to develop and run Java programming applications efficiently. It includes an execution engine, a compiler, and a set of libraries in it. It is a set of computer software and specifications. James Gosling developed the Java platform at Sun Microsystems, and the Oracle Corporation later acquired it."
     },
@@ -41,8 +47,9 @@
         },
         "title": "C",
         "image_url": "https://www.pngitem.com/pimgs/m/31-312155_c-programming-language-logo-hd-png-download.png",
-        "details": "C awesome.",
-        "price": "$10"
+        "details": "C has been around for quite some time and it is one of the foundational languages of computer science. Most operating systems today, including the Linux Kernel, are implemented with C code. The main version of the Python programming language is named CPython because it is implemented using C. The C programming language is everywhere, learning it will help you become a better programmer ready for the next challenge in any field of computer science!.",
+        "duration": "4 hours",
+        "price": "$20"
     },
     {
         "id": "05",
@@ -52,8 +59,10 @@
             "badge": "Excellent"
         },
         "title": "PHP",
+        "price": "$10",
+        "duration": "2 hours",
         "image_url": "https://i.ibb.co/r5YZVhw/php.jpg",
-        "details": "PHP awesome."
+        "details": "PHP is a general-purpose scripting language widely used as a server-side language for creating dynamic web pages. Though its reputation is mixed, PHP is still extremely popular and is used in over 75% of all websites where the server-side programming language is known.."
     },
     {
         "id": "06",
@@ -63,7 +72,9 @@
             "badge": "Excellent"
         },
         "title": "HTML",
+        "price": "$15",
+        "duration": "1 hours",
         "image_url": "https://i.ibb.co/Jp9rrN9/html-512-1.png",
-        "details": "HTML Awesome"
+        "details": "HTML is the foundation of all web pages. It defines the structure of a page, while CSS defines its style. HTML and CSS are the beginning of everything you need to know to make your first web page! Learn both and start creating amazing websites."
     }
 ]
