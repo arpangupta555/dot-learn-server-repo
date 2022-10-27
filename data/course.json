@@ -8,6 +8,8 @@
         },
         "title": "Javascript",
         "image_url": "https://a.thumbs.redditmedia.com/zDOFJTXd6fmlD58VDGypiV94Leflz11woxmgbGY6p_4.png",
+        "price": "$25",
+        "duration": "2 hours",
         "details": "JavaScript (js) is a light-weight object-oriented programming language which is used by several websites for scripting the webpages. It is an interpreted, full-fledged programming language that enables dynamic interactivity on websites when applied to an HTML document. It was introduced in the year 1995 for adding programs to the webpages in the Netscape Navigator browser. Since then, it has been adopted by all other graphical web browsers. With JavaScript, users can build modern web applications to interact directly without reloading the page every time. The traditional website uses js to provide several forms of interactivity and simplicity.Although, JavaScript has no connectivity with Java programming language. The name was suggested and provided in the times when Java was gaining popularity in the market. In addition to web browsers, databases such as CouchDB and MongoDB uses JavaScript as their scripting and query language."
     },
     {
@@ -18,6 +20,8 @@
             "badge": "Excellent"
         },
         "title": "Python",
+        "price": "$10",
+        "duration": "3 hours",
         "image_url": "https://i.ibb.co/tBvGZXT/python.png",
         "details": "Python awesome. "
     },
@@ -29,6 +33,8 @@
             "badge": "Excellent"
         },
         "title": "Java",
+        "duration": "5 hours",
+        "price": "$25",
         "image_url": "https://i.ibb.co/SRdgV7Z/java-logo.jpg",
         "details": "Java is a general-purpose, class-based, object-oriented programming language designed for having lesser implementation dependencies. It is a computing platform for application development. Java is fast, secure, and reliable, therefore. It is widely used for developing Java applications in laptops, data centers, game consoles, scientific supercomputers, cell phones, etc.Java Platform is a collection of programs that help programmers to develop and run Java programming applications efficiently. It includes an execution engine, a compiler, and a set of libraries in it. It is a set of computer software and specifications. James Gosling developed the Java platform at Sun Microsystems, and the Oracle Corporation later acquired it."
     },
@@ -40,9 +46,10 @@
             "badge": "Excellent"
         },
         "title": "C",
-        "image_url": "https://i.ibb.co/M23fhxm/unsplash-Eh-Tc-C9s-YXsw.png",
+        "image_url": "https://www.pngitem.com/pimgs/m/31-312155_c-programming-language-logo-hd-png-download.png",
         "details": "C awesome.",
-        "price": "$10"
+        "duration": "4 hours",
+        "price": "$20"
     },
     {
         "_id": "0282e0e58a5c404fbd15261f11c2ab6a",
@@ -52,6 +59,8 @@
             "badge": "Excellent"
         },
         "title": "PHP",
+        "price": "$10",
+        "duration": "2 hours",
         "image_url": "https://i.ibb.co/r5YZVhw/php.jpg",
         "details": "PHP awesome."
     },
@@ -63,6 +72,8 @@
             "badge": "Excellent"
         },
         "title": "HTML",
+        "price": "$15",
+        "duration": "1 hours",
         "image_url": "https://i.ibb.co/Jp9rrN9/html-512-1.png",
         "details": "HTML Awesome"
     }
